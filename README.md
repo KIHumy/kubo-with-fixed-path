@@ -520,4 +520,10 @@ This is a fork of [ipfs/kubo](https://github.com/ipfs/kubo), originally develope
 
 ## License
 
-This repository retains the original MIT License. See [LICENSE](LICENSE) for details.
+This project is a fork of [ipfs/kubo](https://github.com/ipfs/kubo), originally developed by Protocol Labs.
+
+The original code is dual-licensed under the Apache License 2.0 and the MIT License.  
+You may choose either license when using this code.
+
+See the [LICENSE](LICENSE) file for more information.
+
