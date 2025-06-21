@@ -1,3 +1,16 @@
+# kubo-as-a-library (modified)
+
+This is a modified version of the original example from the Kubo repository:
+https://github.com/ipfs/kubo/tree/master/docs/examples/kubo-as-a-library
+
+## Changes
+
+- Updated the `go.mod` module path to `github.com/deinname/kubo/...` to allow `go get` and module import.
+
+## License
+
+Based on IPFS Kubo, licensed under the MIT License. See [LICENSE](../../../../LICENSE).
+
 # Use Kubo (go-ipfs) as a library to spawn a node and add a file
 
 > Note: if you are trying to customize or extend Kubo, you should read the [Customizing Kubo](../../customizing.md) doc
