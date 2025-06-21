@@ -1,4 +1,4 @@
-module github.com/KIHumy/kubo-with-fixed-path/docs/examples/kubo-as-a-library/go.mod
+module github.com/KIHumy/kubo-with-fixed-path/docs/examples/kubo-as-a-library
 
 go 1.24
 
