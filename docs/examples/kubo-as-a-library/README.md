@@ -5,7 +5,7 @@ https://github.com/ipfs/kubo/tree/master/docs/examples/kubo-as-a-library
 
 ## Changes
 
-- Updated the `go.mod` module path to `github.com/deinname/kubo/...` to allow `go get` and module import.
+- Updated the `go.mod` module path to `github.com/KIHumy/kubo-with-fixed-path/docs/examples/kubo-as-a-library` to allow `go get` and module import.
 
 ## License
 
