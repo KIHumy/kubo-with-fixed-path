@@ -9,7 +9,8 @@ https://github.com/ipfs/kubo/tree/master/docs/examples/kubo-as-a-library
 
 ## License
 
-Based on IPFS Kubo, licensed under the MIT License. See [LICENSE](https://github.com/KIHumy/kubo-with-fixed-path/blob/master/LICENSE).
+This example is based on IPFS Kubo, which is dual-licensed under Apache 2.0 and MIT.
+You may choose either license. See the root [LICENSE](https://github.com/KIHumy/kubo-with-fixed-path/blob/master/LICENSE) file.
 
 # Use Kubo (go-ipfs) as a library to spawn a node and add a file
 
