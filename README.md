@@ -508,3 +508,16 @@ This project is dual-licensed under Apache 2.0 and MIT terms:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/ipfs/kubo/blob/master/LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
 - MIT license ([LICENSE-MIT](https://github.com/ipfs/kubo/blob/master/LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+# kubo (fork with modified example)
+
+This is a fork of [ipfs/kubo](https://github.com/ipfs/kubo), originally developed by Protocol Labs.
+
+## What was changed
+
+- The example at `docs/examples/kubo-as-a-library/` was modified to update the `go.mod` module path.
+- No changes were made to the main Kubo source code.
+
+## License
+
+This repository retains the original MIT License. See [LICENSE](LICENSE) for details.
